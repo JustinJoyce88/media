@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": "3"
+    },
+    {
+      "name": "Harold Strosin",
+      "id": "4"
+    },
+    {
+      "id": "fe16",
+      "name": "Dr. Adrienne Murphy"
+    }
+  ],
+  "albums": [
+    {
+      "id": "0d11",
+      "userId": "1",
+      "title": "Luxurious Bronze Sausages"
+    },
+    {
+      "id": "2a69",
+      "userId": "1",
+      "title": "Refined Steel Keyboard"
+    },
+    {
+      "id": "a987",
+      "userId": "1",
+      "title": "Modern Soft Towels"
+    },
+    {
+      "id": "2a78",
+      "userId": "1",
+      "title": "Awesome Frozen Tuna"
+    }
+  ],
+  "photos": [
+    {
+      "id": "bdc9",
+      "albumId": "0d11",
+      "url": "https://loremflickr.com/150/150/abstract?lock=40080"
+    },
+    {
+      "id": "fcc9",
+      "albumId": "0d11",
+      "url": "https://loremflickr.com/150/150/abstract?lock=30296"
+    },
+    {
+      "id": "d1ff",
+      "albumId": "0d11",
+      "url": "https://loremflickr.com/150/150/abstract?lock=64366"
+    }
+  ]
+}
